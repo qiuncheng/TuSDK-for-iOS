@@ -1,0 +1,410 @@
+/*
+ TuSDK.strings
+ TuSDKDemo
+ 
+ Created by idealhack on 15/7/7.
+ Copyright (c) 2015 tusdk.com. All rights reserved.
+ */
+
+"lsq_reset" = "Réinitialiser";
+"lsq_cancel" = "Annuler";
+"lsq_selected" = "Choisi";
+"lsq_complete" = "Terminé";
+"lsq_setting" = "Paramètres";
+"lsq_loading_image" = "Chargement de l'image...";
+"lsq_downloading_image" = "Téléchargement d'image depuis iCloud...";
+"lsq_initing" = "Initialisation";
+"lsq_inited" = "Initialisé";
+
+// refreshListView
+"lsq_refresh_list_view_state_visible" = "Tirer pour rafraîchir";
+"lsq_refresh_list_view_state_hidden" = "Charge complète";
+"lsq_refresh_list_view_state_triggered" = "Relâcher pour rafraîchir";
+"lsq_refresh_list_view_state_loading" = "Loger...";
+"lsq_refresh_list_view_state_lasttime" = "Dernière mise à jour: ";
+"lsq_refresh_list_view_state_load_more" = "Loding plus...";
+
+// Date
+"lsq_date_seconds_ago" = "il y a quelques instants";
+"lsq_date_minutes_ago" = "il y a quelques minutes";
+"lsq_date_hours_ago" = "il y a des heures";
+"lsq_date_month" = "Mois";
+"lsq_date_year" = "An";
+"lsq_date_today" = "Aujourd'hui";
+"lsq_date_formater" = "M/d/yyyy";
+
+// nav
+"lsq_nav_cancel" = "Annuler";
+"lsq_nav_back" = "Arrière";
+"lsq_nav_more" = "Plus";
+"lsq_nav_remove" = "Retirer";
+"lsq_nav_complete" = "Terminé";
+"lsq_nav_continue" = "Prochain";
+
+// button
+"lsq_button_done" = "D'accord";
+"lsq_button_close" = "Fermer";
+"lsq_button_switch_camera" = "Commutateur";
+"lsq_button_flash" = "Flash:";
+"lsq_button_flash_model_off" = "De";
+"lsq_button_flash_model_close" = "Off";
+"lsq_button_flash_model_auto" = "Auto";
+"lsq_button_flash_model_open" = "Sur";
+
+// avatar
+"lsq_avatar_actionsheet_title" = "Définir Avatar";
+"lsq_avatar_actionsheet_cancel" = "Annuler";
+"lsq_avatar_actionsheet_camera" = "Prendre une photo";
+"lsq_avatar_actionsheet_album" = "Choisissez parmi les albums";
+
+// camera
+"lsq_carema_no_device" = "Votre appareil n'a pas d'appareil photo!";
+"lsq_carema_access_error%@" = "Vous ne pouvez pas accéder à la caméra. Veuillez activer %@ on dans Paramètres - Confidentialité - Appareil photo.";
+"lsq_carema_access_error_title" = "Impossible d'accéder à la caméra";
+"lsq_carema_remake" = "Reprendre";
+"lsq_carema_gotoEdit" = "modifier";
+
+// album
+"lsq_album_title" = "Des albums";
+"lsq_album_empty" = "Pas encore de photos";
+"lsq_album_total_format%ld" = "%ld photos";
+"lsq_album_ALAssetsLibraryAccessDefaultError%@" = "Impossible d'accéder aux photos (%@)";
+"lsq_album_ALAssetsLibraryAccessUserDeniedError%@" = "Impossible d'accéder aux photos. Veuillez activer %@ on dans Paramètres - Confidentialité - Photos.";
+"lsq_album_ALAssetsLibraryAccessGloballyDeniedError%@" = "Vous ne pouvez pas accéder aux photos. Veuillez trun %@ on dans Paramètres - Confidentialité - Photos.";
+"lsq_album_ALAssets_error_title" = "Vous ne pouvez pas accéder aux photos";
+"lsq_album_empty_selection_msg" = "Aucune photo sélectionnée";
+"lsq_album_preview_selection_msg" = "Veuillez attendre le téléchargement terminé";
+"lsq_album_max_selection_msg" = "%d les photos ont déjà été sélectionnées";
+"lsq_album_preview_complete" = "Terminé(%lu/%lu)";
+"lsq_album_image_size_limited" = "Plus de %.0f*%.0f les images ne sont pas supportées";
+
+// location
+"lsq_location_error_title" = "Impossible d'obtenir l'emplacement";
+"lsq_location_AccessUserDeniedError%@" = "Vous ne pouvez pas obtenir d'emplacement. Veuillez activer %@ on dans Paramètres - Confidentialité - Services de localisation.";
+
+// save
+"lsq_save_saveToTemp" = "En traitement...";
+"lsq_save_saveToTemp_completed" = "Processus terminé";
+"lsq_save_saveToTemp_failed" = "Échec du traitement";
+"lsq_save_saveToAlbum" = "Enregistrement sur des albums...";
+"lsq_save_saveToAlbum_succeed" = "Enregistré avec succès";
+"lsq_save_saveToAlbum_failed" = "Échec de l'enregistrement";
+
+// edit
+"lsq_edit_button_complete" = "Terminé";
+"lsq_edit_loading" = "Chargement...";
+"lsq_edit_filter_processing" = "En traitement...";
+"lsq_edit_processing" = "En traitement...";
+"lsq_edit_processed" = "Processus terminé";
+"lsq_edit_processing_index" = "Au traitement de %d/%d";
+"lsq_edit_process_error_autoColorAnalysis" = "Impossible de se connecter au réseau";
+"lsq_edit_process_error_analysisFace" = "Impossible de se connecter au réseau";
+"lsq_edit_process_face_error_undetected" = "Aucun visage n'est détecté";
+"lsq_edit_process_face_error_noAccess" = "La détection du visage a échoué";
+"lsq_edit_process_face_error_moreThanOne" = "Détecte plus d'un visage";
+
+"lsq_edit_step_prev" = "annuler";
+"lsq_edit_step_next" = "Refaire";
+"lsq_edit_auto_adjust" = "Auto";
+"lsq_edit_entry_filter" = "Des filtres";
+"lsq_edit_entry_cuter" = "Surgir";
+"lsq_edit_entry_sticker" = "Autocollants";
+"lsq_edit_entry_text" = "Texte";
+"lsq_edit_entry_smudge" = "Tache";
+"lsq_edit_entry_smudge_filter" = "Brouiller";
+"lsq_edit_cuter_ratio_orgin" = "Original";
+"lsq_edit_cuter_ratio_1_1" = "1:1";
+"lsq_edit_cuter_ratio_2_3" = "2:3";
+"lsq_edit_cuter_ratio_3_4" = "3:4";
+"lsq_edit_cuter_ratio_9_16" = "9:16";
+"lsq_edit_cuter_ratio_3_2" = "3:2";
+"lsq_edit_cuter_ratio_4_3" = "4:3";
+"lsq_edit_cuter_ratio_16_9" = "16:9";
+"lsq_edit_title" = "Edit";
+"lsq_edit_multiple_title" = "modifier";
+"lsq_edit_skin_title" = "Embellir";
+"lsq_edit_holy_light" = "Lumière sacrée";
+"lsq_edit_smudge_brush" = "Brosse";
+"lsq_edit_smudge_eraser" = "La gomme";
+
+"lsq_edit_text_input_tip" = "Cliquez pour éditer";
+"lsq_edit_text_color_text" = "couleur du texte";
+"lsq_edit_text_color_backgroud" = "Couleur de fond";
+"lsq_edit_text_color_stroke" = "couleur de trait";
+"lsq_edit_text_style_leftToRight" = "De gauche à droite";
+"lsq_edit_text_style_rightToLeft" = "De droite à gauche";
+"lsq_edit_text_style_underline" = "Souligner";
+"lsq_edit_text_style_alignmentLeft" = "AlignementLeft";
+"lsq_edit_text_style_alignmentRight" = "AlignementDroit";
+"lsq_edit_text_style_alignmentCenter" = "Centre d'alignement";
+
+"lsq_edit_fragment_turn_left" = "Tournez à gauche";
+"lsq_edit_fragment_turn_right" = "Tournez à droite";
+"lsq_edit_fragment_vertical_mirror" = "VMiroir";
+"lsq_edit_fragment_horizontal_mirror" = "HMiroir";
+"lsq_edit_fragment_undo" = "Annuler";
+"lsq_edit_fragment_redo" = "Refaire";
+"lsq_edit_fragment_dim_small" = "Petit";
+"lsq_edit_fragment_dim_middle" = "Milieu";
+"lsq_edit_fragment_dim_large" = "Grand";
+"lsq_edit_fragment_aperture_close" = "Fermer";
+"lsq_edit_fragment_aperture_radial" = "Radial";
+"lsq_edit_fragment_aperture_linear" = "Linéaire";
+
+"lsq_edit_entry_hdr" = "HDR";
+
+// sticker
+"lsq_sticker_cate_default" = "Autocollants";
+"lsq_sticker_cate_watermark" = "Wmk";
+"lsq_sticker_cate_mood" = "Humeurs";
+"lsq_sticker_cate_frame" = "Cadres";
+"lsq_sticker_loading" = "Chargement des autocollants...";
+"lsq_sticker_load_unexsit" = "Les autocollants n’existent pas, essayez-en un autre.";
+"lsq_sticker_over_limit%ld" = "Oups, ne peut pas utiliser plus de %ld autocollants";
+"lsq_sticker_title" = "Autocollants";
+"lsq_sticker_online_title" = "Autocollants en ligne";
+"lsq_sticker_total_format%ld" = "%ld autocollants";
+"lsq_sticker_empty_title_msg" = "Cliquez sur “ ”, pour télécharger d'autres autocollants";
+"lsq_sticker_empty_title" = "Pas encore d'autocollants";
+"lsq_sticker_empty" = "Pas encore d'autocollants";
+"lsq_sticker_empty_msg" = "Allez en chercher dans la boutique des autocollants";
+"lsq_sticker_1_1" = "Monstres 4";
+"lsq_sticker_remove_title" = "Enlevez l'autocollant";
+"lsq_sticker_remove_msg%@" = "Êtes-vous sûr de retirer l'autocollant %@?";
+"lsq_sticker_cate_all" = "Tout";
+"lsq_sticker_cate_history" = "Histoire";
+"lsq_sticker_cate_new" = "Dernier";
+"lsq_sticker_show_list" = "Ajouter";
+
+// format
+"las_date_format" = "M/d/yyyy";
+
+// Week
+"las_week_Sun" = "Sun";
+"las_week_Mon" = "Mon";
+"las_week_Tue" = "Tue";
+"las_week_Wed" = "Wed";
+"las_week_Thu" = "Thu";
+"las_week_Fri" = "Fri";
+"las_week_Sat" = "Sat";
+
+// FilterGroup
+"lsq_filter_group_Leica" = "Leica";
+"lsq_filter_group_Lomo" = "LOMO";
+"lsq_filter_group_Food" = "Aliments";
+"lsq_filter_group_Enhance" = "Améliorer";
+"lsq_filter_group_Glare" = "Lumières";
+"lsq_filter_group_Magic" = "la magie";
+"lsq_filter_group_GailyColoured" = "Brillamment";
+"lsq_filter_group_Oldtimes" = "Vieux temps";
+"lsq_filter_group_Lip001" = "Lèvre";
+"lsq_filter_group_Mottle" = "Mottle";
+"lsq_filter_group_LipGloss" = "Lèvres";
+
+
+"lsq_filter_group_Beauty" = "Beauté naturelle";
+"lsq_filter_group_MeituBeauty" = "Beauté douce";
+"lsq_filter_group_EdgeEffects" = "Thermodynamique";
+"lsq_filter_group_EdgeEffects001" = "Effets de bord";
+
+"lsq_filter_Multicolor" = "Multicolore";
+"lsq_filter_Azure" = "Azur";
+"lsq_filter_Infrared" = "Infrarouge";
+"lsq_filter_Fluorescence" = "Fluorescence";
+"lsq_filter_Starshine" = "Étoile briller";
+
+"lsq_filter_Flame" = "Flamme";
+"lsq_filter_Polychrome" = "Polychrome";
+"lsq_filter_Angulation" = "Angulation";
+"lsq_filter_Hallucination" = "Hallucination";
+"lsq_filter_Nighttime" = "La nuit";
+"lsq_filter_Splendid" = "Splendide";
+
+"lsq_filter_Nature" = "La nature";
+"lsq_filter_Blusher" = "Fard à joues";
+"lsq_filter_Jelly" = "Gelée";
+"lsq_filter_Jam" = "Confiture";
+"lsq_filter_Ruddy" = "Rouge";
+"lsq_filter_Sugar" = "Sucre";
+"lsq_filter_Powder" = "Poudre";
+"lsq_filter_Whitening" = "Blanchiment";
+
+// Filters
+"lsq_filter_Sweet002" = "Doux";
+"lsq_filter_Sweet" = "Doux";
+"lsq_filter_Coffee" = "café";
+"lsq_filter_Gold" = "Or";
+"lsq_filter_Rum" = "Rhum";
+"lsq_filter_online_title" = "Filtres en ligne";
+"lsq_filter_remove_title" = "Supprimer le filtre";
+"lsq_filter_remove_msg%@" = "Etes-vous sûr de retirer le filtre %@?";
+"lsq_filter_Normal" = "Ordinaire";
+"lsq_filter_Lomo" = "LOMO";
+"lsq_filter_Noir" = "Noir";
+"lsq_filter_Abao" = "Abao";
+"lsq_filter_Instant" = "Instant";
+"lsq_filter_Nostalgic" = "Nostalgique";
+"lsq_filter_Newborn" = "nouveau née";
+"lsq_filter_Morning" = "Matin";
+"lsq_filter_Cheerful" = "De bonne humeur";
+"lsq_filter_Lightup" = "Allumer";
+"lsq_filter_Vintage" = "Ancien";
+"lsq_filter_Thick" = "Épais";
+"lsq_filter_Fade" = "Se fanent";
+"lsq_filter_Clear" = "Clair";
+"lsq_filter_Brightly" = "Brillamment";
+"lsq_filter_Artistic" = "Artistique";
+"lsq_filter_Brilliant" = "Brillant";
+"lsq_filter_Harmony" = "Harmonie";
+"lsq_filter_Gloss" = "Brillant";
+"lsq_filter_Forest" = "Forêt";
+"lsq_filter_Relaxed" = "Détendu";
+"lsq_filter_Rough" = "Rugueux";
+"lsq_filter_Leica" = "Leica";
+"lsq_filter_Recent" = "Récent";
+"lsq_filter_Download" = "Télécharger";
+
+// 唇魅，斑驳
+"lsq_filter_group_SnapSeed" = "Tacheté";
+"lsq_filter_Time" = "Temps";
+"lsq_filter_Recall" = "Rappel";
+"lsq_filter_Yellowing" = "Jaunissement";
+"lsq_filter_Years" = "Années";
+"lsq_filter_Age" = "Âge";
+"lsq_filter_group_Lip001" = "Lèvres";
+"lsq_filter_Missing" = "Disparu";
+"lsq_filter_Grapefruit" = "Pamplemousse";
+"lsq_filter_RoseCarmine" = "RoseCarmine";
+"lsq_filter_Nude" = "Nu";
+"lsq_filter_Orange" = "Orange";
+"lsq_filter_BabyPink" = "Bébé rose";
+
+// Beauty
+"lsq_filter_SkinNature" = "La nature";
+"lsq_filter_SkinPink" = "Rose";
+"lsq_filter_SkinJelly" = "Gelée";
+"lsq_filter_SkinNoir" = "Noir";
+"lsq_filter_SkinRuddy" = "Rouge";
+"lsq_filter_SkinPowder" = "Rose";
+"lsq_filter_SkinSugar" = "Sucre";
+
+// Magic
+"lsq_filter_MagicRed" = "rouge";
+"lsq_filter_MagicYellow" = "Jaune";
+"lsq_filter_MagicBlue" = "Bleu";
+"lsq_filter_MagicGreen" = "vert";
+"lsq_filter_MagicPurple" = "Violet";
+
+// Filters Definition
+"lsq_filter_SkinWhitening" = "Blanchir";
+"lsq_filter_SkinTwiceMixed" = "Deux fois mélangé";
+"lsq_filter_SkinTwiceMixedSigma" = "Deux fois plus de sigma";
+"lsq_filter_SkinWhiteMixed" = "Blanchir mélangé";
+"lsq_filter_SkinRGBSpace" = "Espace RVB";
+"lsq_filter_SkinColorMixed" = "Couleur Mixte";
+"lsq_filter_BokehBlur" = "Brouiller";
+"lsq_filter_SenseOfAutumn" = "L'automne";
+"lsq_filter_Coloration" = "Coloration";
+"lsq_filter_Fluorescent" = "Fluorescent";
+"lsq_filter_Freshmorning" = "Matin";
+"lsq_filter_Holidaysunshine" = "Vacances";
+"lsq_filter_Purplemoon" = "Violet";
+"lsq_filter_Summersunshine" = "Été";
+"lsq_filter_Wintersunshine" = "Hiver";
+"lsq_filter_Summer" = "Été";
+"lsq_filter_Winter" = "Hiver";
+
+// Filters Definition skin
+"lsq_filter_set_skinMultiple" = "Peau Multiple";
+
+"lsq_filter_set_smoothing" = "Lissage";
+"lsq_filter_set_whitening" = "Blanchiment";
+"lsq_filter_set_skinColor" = "Peau";
+"lsq_filter_set_retouch" = "Retoucher";
+"lsq_filter_set_chinSize" = "Taille de chine";
+"lsq_filter_set_eyeSize" = "EyeSize";
+
+"lsq_filter_set_blurSize" = "Taille de flou";
+"lsq_filter_set_blurWeight" = "Poids flou";
+"lsq_filter_set_skinColorThreshold" = "Couleur de peau";
+"lsq_filter_set_skinColorThresholdQuadraticMixture" = "Mélange de couleur de peau";
+"lsq_filter_set_distanceNormalizationFactor" = "Bord";
+"lsq_filter_set_blurSigma" = "Flou Sigma";
+"lsq_filter_set_mixied" = "Mixte";
+"lsq_filter_set_texture" = "Texture";
+"lsq_filter_set_saturation" = "Saturation";
+"lsq_filter_set_contrast" = "Contraste";
+"lsq_filter_set_sharpness" = "Acuité";
+"lsq_filter_set_highlights" = "Points forts";
+"lsq_filter_set_shadows" = "Ombres";
+"lsq_filter_set_temperature" = "Ton";
+"lsq_filter_set_autumnColorThreshold" = "L'automne";
+"lsq_filter_set_hue" = "Teinte";
+"lsq_filter_set_hueSpace" = "Espace de teinte";
+"lsq_filter_set_brightness" = "Luminosité";
+"lsq_filter_set_exposure" = "Exposition";
+"lsq_filter_set_vignette" = "Vignette";
+"lsq_filter_set_aperture" = "Ouverture";
+"lsq_filter_set_holy_light" = "Lumière sacrée";
+"lsq_filter_set_adjustment" = "Régler";
+"lsq_filter_set_selective" = "Sélectif";
+"lsq_filter_set_linear" = "Linéaire";
+"lsq_filter_set_rotate" = "Tourner";
+"lsq_filter_set_radial" = "Radial";
+
+"lsq_filter_set_edgeStrength" = "Force";
+"lsq_filter_set_thresholdLevel" = "Emplacement";
+"lsq_filter_set_speed" = "La vitesse";
+"lsq_filter_set_showType" = "Type";
+
+// text Definition option
+"lsq_filter_set_text_addText" = "ajouter";
+"lsq_filter_set_text_color" = "Couleur";
+"lsq_filter_set_text_style" = "style";
+
+// Filters Definition Bokeh
+"lsq_filter_set_radius" = "Rayon";
+"lsq_filter_set_centerX" = "Centre X";
+"lsq_filter_set_centerY" = "Centre Y";
+"lsq_filter_set_excessive" = "Bord";
+"lsq_filter_set_maskAlpha" = "Masque";
+"lsq_filter_set_degree" = "Degré";
+
+// Brush Definition
+"lsq_brush_Eraser" = "La gomme";
+"lsq_brush_Mosaic" = "Mosaïque";
+"lsq_brush_OilPaint" = "Peinture à l'huile";
+"lsq_brush_Gouache" = "Gouache";
+"lsq_brush_WaterColor" = "Couleur de l'eau";
+"lsq_brush_ColorLead" = "Stylo couleur";
+"lsq_brush_MapleLeaf" = "Feuille";
+
+// Brush Size definition
+"lsq_brush_size_small" = "Petit";
+"lsq_brush_size_medium" = "Moyen";
+"lsq_brush_size_large" = "Grand";
+"lsq_brush_size_label" = "Taille:%@";
+
+// network
+"lsq_network_request_error" = "Erreur de demande de réseau";
+"lsq_network_request_return_error" = "Erreur de réponse du serveur";
+"lsq_network_connection_without" = "Pas de réseau";
+"lsq_network_connection_interruption" = "La connexion a été interrompue, veuillez vérifier vos paramètres";
+"lsq_network_connection_failed" = "Impossible de se connecter au réseau";
+"lsq_network_connection_timeout" = "Délai de requête réseau";
+"lsq_network_paser_data_failed" = "Échec du traitement des données";
+
+// camera
+"lsq_camera_Grid_on" = "Grille sur";
+"lsq_camera_Grid_off" = "Grille de";
+"lsq_camera_ratio_9_16" = "9:16";
+"lsq_camera_ratio_3_4" = " 3:4";
+"lsq_camera_ratio_2_3" = " 2:3";
+"lsq_camera_ratio_1_1" = " 1:1";
+"lsq_camera_ratio_3_2" = " 3:2";
+"lsq_camera_ratio_4_3" = " 4:3";
+"lsq_camera_ratio_16_9" = "16:9";
+"lsq_camera_ratio_origin" = "Plein";
+"lsq_camera_flash_mode_on" = "Flash sur";
+"lsq_camera_flash_mode_off" = "Flash de";
+"lsq_camera_flash_mode_auto" = "Flash auto";

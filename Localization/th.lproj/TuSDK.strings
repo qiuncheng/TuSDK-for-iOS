@@ -1,0 +1,410 @@
+/*
+ TuSDK.strings
+ TuSDKDemo
+ 
+ Created by idealhack on 15/7/7.
+ Copyright (c) 2015 tusdk.com. All rights reserved.
+ */
+
+"lsq_reset" = "รีเซ็ต";
+"lsq_cancel" = "ยกเลิก";
+"lsq_selected" = "เลือก";
+"lsq_complete" = "เสร็จสิ้น";
+"lsq_setting" = "การตั้งค่า";
+"lsq_loading_image" = "กำลังโหลดรูปภาพ...";
+"lsq_downloading_image" = "กำลังดาวน์โหลดภาพจาก iCloud...";
+"lsq_initing" = "เริ่มต้น";
+"lsq_inited" = "เริ่มต้น";
+
+// refreshListView
+"lsq_refresh_list_view_state_visible" = "ดึงเพื่อรีเฟรช";
+"lsq_refresh_list_view_state_hidden" = "โหลดเสร็จสมบูรณ์";
+"lsq_refresh_list_view_state_triggered" = "รีเฟรชเพื่อรีเฟรช";
+"lsq_refresh_list_view_state_loading" = "loding...";
+"lsq_refresh_list_view_state_lasttime" = "อัปเดตล่าสุด: ";
+"lsq_refresh_list_view_state_load_more" = "ลอดจ์มากขึ้น...";
+
+// Date
+"lsq_date_seconds_ago" = "วินาทีที่ผ่านมา";
+"lsq_date_minutes_ago" = "นาทีที่ผ่านมา";
+"lsq_date_hours_ago" = "ชั่วโมงที่ผ่านมา";
+"lsq_date_month" = "เดือน";
+"lsq_date_year" = "ปี";
+"lsq_date_today" = "ในวันนี้";
+"lsq_date_formater" = "M/d/yyyy";
+
+// nav
+"lsq_nav_cancel" = "ยกเลิก";
+"lsq_nav_back" = "กลับ";
+"lsq_nav_more" = "มากกว่า";
+"lsq_nav_remove" = "เอาออก";
+"lsq_nav_complete" = "เสร็จสิ้น";
+"lsq_nav_continue" = "ต่อไป";
+
+// button
+"lsq_button_done" = "ตกลง";
+"lsq_button_close" = "ปิด";
+"lsq_button_switch_camera" = "สวิตซ์";
+"lsq_button_flash" = "แฟลช:";
+"lsq_button_flash_model_off" = "ปิด";
+"lsq_button_flash_model_close" = "ปิด";
+"lsq_button_flash_model_auto" = "รถยนต์";
+"lsq_button_flash_model_open" = "บน";
+
+// avatar
+"lsq_avatar_actionsheet_title" = "ตั้งค่าสัญลักษณ์";
+"lsq_avatar_actionsheet_cancel" = "ยกเลิก";
+"lsq_avatar_actionsheet_camera" = "ถ่ายภาพ";
+"lsq_avatar_actionsheet_album" = "เลือกจากอัลบั้ม";
+
+// camera
+"lsq_carema_no_device" = "อุปกรณ์ของคุณไม่มีกล้องถ่ายรูป!";
+"lsq_carema_access_error%@" = "ไม่สามารถเข้าถึงกล้องได้ โปรดเปิด%@ บนในการตั้งค่า-ความเป็นส่วนตัว-กล้องถ่ายรูป.";
+"lsq_carema_access_error_title" = "ไม่สามารถเข้าถึงกล้องได้";
+"lsq_carema_remake" = "เอาคืน";
+"lsq_carema_gotoEdit" = "แก้ไข";
+
+// album
+"lsq_album_title" = "อัลบัม";
+"lsq_album_empty" = "ยังไม่มีรูปภาพ";
+"lsq_album_total_format%ld" = "%ld ภาพถ่าย";
+"lsq_album_ALAssetsLibraryAccessDefaultError%@" = "ไม่สามารถเข้าถึงรูปภาพ (%@)";
+"lsq_album_ALAssetsLibraryAccessUserDeniedError%@" = "ไม่สามารถเข้าถึงรูปภาพ กรุณา กลับ %@ เปิดในการตั้งค่า - ความเป็นส่วนตัว - รูปถ่าย";
+"lsq_album_ALAssetsLibraryAccessGloballyDeniedError%@" = "ไม่สามารถเข้าถึงรูปภาพ โปรดลอง%@ บน ในการตั้งค่า - ข้อมูลส่วนบุคคล - รูปภาพ";
+"lsq_album_ALAssets_error_title" = "ไม่สามารถเข้าถึงรูปภาพ";
+"lsq_album_empty_selection_msg" = "ไม่ได้เลือกรูปภาพ";
+"lsq_album_preview_selection_msg" = "โปรดรอการดาวน์โหลดเสร็จสิ้น";
+"lsq_album_max_selection_msg" = "%d ภาพถ่ายถูกเลือกแล้ว";
+"lsq_album_preview_complete" = "เสร็จสิ้น(%lu/%lu)";
+"lsq_album_image_size_limited" = "มากกว่า %.0f*%.0f รูปภาพไม่ได้รับการสนับสนุน";
+
+// location
+"lsq_location_error_title" = "ไม่สามารถรับตำแหน่งได้";
+"lsq_location_AccessUserDeniedError%@" = "ไม่สามารถรับตำแหน่งได้ โปรดเปิด%@ บนในการตั้งค่า - ความเป็นส่วนตัว - บริการตำแหน่ง";
+
+// save
+"lsq_save_saveToTemp" = "การประมวลผล...";
+"lsq_save_saveToTemp_completed" = "ดำเนินการเสร็จสิ้นแล้ว";
+"lsq_save_saveToTemp_failed" = "ไม่สามารถประมวลผลได้";
+"lsq_save_saveToAlbum" = "กำลังบันทึกในอัลบั้ม...";
+"lsq_save_saveToAlbum_succeed" = "บันทึกเรียบร้อยแล้ว";
+"lsq_save_saveToAlbum_failed" = "ไม่สามารถบันทึก";
+
+// edit
+"lsq_edit_button_complete" = "เสร็จสิ้น";
+"lsq_edit_loading" = "กำลังโหลด...";
+"lsq_edit_filter_processing" = "การประมวลผล...";
+"lsq_edit_processing" = "การประมวลผล...";
+"lsq_edit_processed" = "ดำเนินการเสร็จสิ้นแล้ว";
+"lsq_edit_processing_index" = "เกี่ยวกับการประมวลผลของ%d/%d";
+"lsq_edit_process_error_autoColorAnalysis" = "ไม่สามารถเชื่อมต่อกับเครือข่าย";
+"lsq_edit_process_error_analysisFace" = "ไม่สามารถเชื่อมต่อกับเครือข่าย";
+"lsq_edit_process_face_error_undetected" = "ไม่พบใบหน้า";
+"lsq_edit_process_face_error_noAccess" = "การตรวจหาใบหน้าล้มเหลว";
+"lsq_edit_process_face_error_moreThanOne" = "ตรวจจับใบหน้ามากกว่าหนึ่งหน้า";
+
+"lsq_edit_step_prev" = "แก้";
+"lsq_edit_step_next" = "ทำซ้ำ";
+"lsq_edit_auto_adjust" = "รถยนต์";
+"lsq_edit_entry_filter" = "ฟิลเตอร์";
+"lsq_edit_entry_cuter" = "พืชผล";
+"lsq_edit_entry_sticker" = "สติกเกอร์";
+"lsq_edit_entry_text" = "ข้อความ";
+"lsq_edit_entry_smudge" = "รอยเปื้อน";
+"lsq_edit_entry_smudge_filter" = "เบลอ";
+"lsq_edit_cuter_ratio_orgin" = "เป็นต้นฉบับ";
+"lsq_edit_cuter_ratio_1_1" = "1:1";
+"lsq_edit_cuter_ratio_2_3" = "2:3";
+"lsq_edit_cuter_ratio_3_4" = "3:4";
+"lsq_edit_cuter_ratio_9_16" = "9:16";
+"lsq_edit_cuter_ratio_3_2" = "3:2";
+"lsq_edit_cuter_ratio_4_3" = "4:3";
+"lsq_edit_cuter_ratio_16_9" = "16:9";
+"lsq_edit_title" = "แก้ไข";
+"lsq_edit_multiple_title" = "แก้ไข";
+"lsq_edit_skin_title" = "ตกแต่ง";
+"lsq_edit_holy_light" = "แสงศักดิ์สิทธิ์";
+"lsq_edit_smudge_brush" = "แปรง";
+"lsq_edit_smudge_eraser" = "ยางลบ";
+
+"lsq_edit_text_input_tip" = "คลิกเพื่อแก้ไข";
+"lsq_edit_text_color_text" = "สีข้อความ";
+"lsq_edit_text_color_backgroud" = "สีพื้นหลัง";
+"lsq_edit_text_color_stroke" = "สีจังหวะ";
+"lsq_edit_text_style_leftToRight" = "ซ้ายไปขวา";
+"lsq_edit_text_style_rightToLeft" = "จากขวาไปซ้าย";
+"lsq_edit_text_style_underline" = "ขีดเส้นใต้";
+"lsq_edit_text_style_alignmentLeft" = "จัดชิดซ้าย";
+"lsq_edit_text_style_alignmentRight" = "จัดชิดขวา";
+"lsq_edit_text_style_alignmentCenter" = "การวางแนวศูนย์";
+
+"lsq_edit_fragment_turn_left" = "เลี้ยวซ้าย";
+"lsq_edit_fragment_turn_right" = "เลี้ยวขวา";
+"lsq_edit_fragment_vertical_mirror" = "Vกระจกเงา";
+"lsq_edit_fragment_horizontal_mirror" = "Hกระจกเงา";
+"lsq_edit_fragment_undo" = "แก้";
+"lsq_edit_fragment_redo" = "ทำซ้ำ";
+"lsq_edit_fragment_dim_small" = "เล็ก";
+"lsq_edit_fragment_dim_middle" = "กลาง";
+"lsq_edit_fragment_dim_large" = "ใหญ่";
+"lsq_edit_fragment_aperture_close" = "ปิด";
+"lsq_edit_fragment_aperture_radial" = "เป็นแฉก";
+"lsq_edit_fragment_aperture_linear" = "เชิงเส้น";
+
+"lsq_edit_entry_hdr" = "HDR";
+
+// sticker
+"lsq_sticker_cate_default" = "สติกเกอร์";
+"lsq_sticker_cate_watermark" = "Wmk";
+"lsq_sticker_cate_mood" = "อารมณ์ความรู้สึก";
+"lsq_sticker_cate_frame" = "กรอบ";
+"lsq_sticker_loading" = "กำลังโหลดสติกเกอร์...";
+"lsq_sticker_load_unexsit" = "ไม่มีสติ๊กเกอร์โปรดลองอีกครั้ง";
+"lsq_sticker_over_limit%ld" = "อ๊ะไม่สามารถใช้สติกเกอร์ได้มากกว่า%ld";
+"lsq_sticker_title" = "สติกเกอร์";
+"lsq_sticker_online_title" = "สติ๊กเกอร์ออนไลน์";
+"lsq_sticker_total_format%ld" = "%ld สติกเกอร์";
+"lsq_sticker_empty_title_msg" = "คลิก" "เพื่อดาวน์โหลดสติ๊กเกอร์เพิ่มเติม";
+"lsq_sticker_empty_title" = "ยังไม่มีสติกเกอร์";
+"lsq_sticker_empty" = "ยังไม่มีสติกเกอร์";
+"lsq_sticker_empty_msg" = "ไปหาร้าน Stickers บ้าง";
+"lsq_sticker_1_1" = "มอนสเตอร์ 4";
+"lsq_sticker_remove_title" = "เอาออกสติ๊กเกอร์";
+"lsq_sticker_remove_msg%@" = "คุณแน่ใจหรือไม่ว่าต้องการนำสติกเกอร์ออก %@?";
+"lsq_sticker_cate_all" = "ทั้งหมด";
+"lsq_sticker_cate_history" = "ประวัติศาสตร์";
+"lsq_sticker_cate_new" = "ล่าสุด";
+"lsq_sticker_show_list" = "เพิ่ม";
+
+// format
+"las_date_format" = "M/d/yyyy";
+
+// Week
+"las_week_Sun" = "Sun";
+"las_week_Mon" = "Mon";
+"las_week_Tue" = "Tue";
+"las_week_Wed" = "Wed";
+"las_week_Thu" = "Thu";
+"las_week_Fri" = "Fri";
+"las_week_Sat" = "Sat";
+
+// FilterGroup
+"lsq_filter_group_Leica" = "Leica";
+"lsq_filter_group_Lomo" = "LOMO";
+"lsq_filter_group_Food" = "อาหาร";
+"lsq_filter_group_Enhance" = "เสริม";
+"lsq_filter_group_Glare" = "ไฟ";
+"lsq_filter_group_Magic" = "มายากล";
+"lsq_filter_group_GailyColoured" = "แจ๊ด";
+"lsq_filter_group_Oldtimes" = "สมัยเก่า";
+"lsq_filter_group_Lip001" = "ฝีปาก";
+"lsq_filter_group_Mottle" = "ทำให้เป็นดวง ๆ";
+"lsq_filter_group_LipGloss" = "โอษฐ์";
+
+
+"lsq_filter_group_Beauty" = "ความงามของธรรมชาติ";
+"lsq_filter_group_MeituBeauty" = "ความงามอ่อน";
+"lsq_filter_group_EdgeEffects" = "อุณหพลศาสตร์";
+"lsq_filter_group_EdgeEffects001" = "เอฟเฟ็กต์ขอบ";
+
+"lsq_filter_Multicolor" = "มัลติคัลเลอร์";
+"lsq_filter_Azure" = "สีฟ้า";
+"lsq_filter_Infrared" = "อินฟราเรด";
+"lsq_filter_Fluorescence" = "แสงวาว";
+"lsq_filter_Starshine" = "แสงดาว";
+
+"lsq_filter_Flame" = "เปลวไฟ";
+"lsq_filter_Polychrome" = "มีหลายสี";
+"lsq_filter_Angulation" = "มุม";
+"lsq_filter_Hallucination" = "อาการประสาทหลอน";
+"lsq_filter_Nighttime" = "ยามค่ำคืน";
+"lsq_filter_Splendid" = "โอ่โถง";
+
+"lsq_filter_Nature" = "ธรรมชาติ";
+"lsq_filter_Blusher" = "หน้าแดง";
+"lsq_filter_Jelly" = "วุ้น";
+"lsq_filter_Jam" = "แยม";
+"lsq_filter_Ruddy" = "แดงก่ำ";
+"lsq_filter_Sugar" = "น้ำตาล";
+"lsq_filter_Powder" = "ผง";
+"lsq_filter_Whitening" = "ไวท์เทนนิ่ง";
+
+// Filters
+"lsq_filter_Sweet002" = "หวาน";
+"lsq_filter_Sweet" = "หวาน";
+"lsq_filter_Coffee" = "กาแฟ";
+"lsq_filter_Gold" = "ทอง";
+"lsq_filter_Rum" = "รัม";
+"lsq_filter_online_title" = "ตัวกรองออนไลน์";
+"lsq_filter_remove_title" = "ลบตัวกรอง";
+"lsq_filter_remove_msg%@" = "คุณแน่ใจหรือไม่ว่าต้องการนำตัวกรองออก %@?";
+"lsq_filter_Normal" = "ปกติ";
+"lsq_filter_Lomo" = "LOMO";
+"lsq_filter_Noir" = "Noir";
+"lsq_filter_Abao" = "Abao";
+"lsq_filter_Instant" = "ด่วน";
+"lsq_filter_Nostalgic" = "เกี่ยวกับความคิดถึง";
+"lsq_filter_Newborn" = "ทารกแรกเกิด";
+"lsq_filter_Morning" = "ตอนเช้า";
+"lsq_filter_Cheerful" = "ร่าเริง";
+"lsq_filter_Lightup" = "เปิดไฟ";
+"lsq_filter_Vintage" = "เหล้าองุ่น";
+"lsq_filter_Thick" = "หนา";
+"lsq_filter_Fade" = "จางหาย";
+"lsq_filter_Clear" = "ชัดเจน";
+"lsq_filter_Brightly" = "แจ๊ด";
+"lsq_filter_Artistic" = "ศิลปะ";
+"lsq_filter_Brilliant" = "สุกใส";
+"lsq_filter_Harmony" = "ความสามัคคี";
+"lsq_filter_Gloss" = "กลอส";
+"lsq_filter_Forest" = "ป่า";
+"lsq_filter_Relaxed" = "ผ่อนคลาย";
+"lsq_filter_Rough" = "ขรุขระ";
+"lsq_filter_Leica" = "Leica";
+"lsq_filter_Recent" = "เมื่อเร็ว ๆ นี้";
+"lsq_filter_Download" = "ดาวน์โหลด";
+
+// 唇魅，斑驳
+"lsq_filter_group_SnapSeed" = "กระดำกระด่าง";
+"lsq_filter_Time" = "เวลา";
+"lsq_filter_Recall" = "จำ";
+"lsq_filter_Yellowing" = "สีเหลือง";
+"lsq_filter_Years" = "ปี";
+"lsq_filter_Age" = "อายุ";
+"lsq_filter_group_Lip001" = "โอษฐ์";
+"lsq_filter_Missing" = "หายไป";
+"lsq_filter_Grapefruit" = "เกรฟฟรุ๊ต";
+"lsq_filter_RoseCarmine" = "ดอกกุหลาบสีแดงเลือดนก";
+"lsq_filter_Nude" = "เปลือย";
+"lsq_filter_Orange" = "ส้ม";
+"lsq_filter_BabyPink" = "เด็กอ่อนสีชมพู";
+
+// Beauty
+"lsq_filter_SkinNature" = "ธรรมชาติ";
+"lsq_filter_SkinPink" = "สีชมพู";
+"lsq_filter_SkinJelly" = "วุ้น";
+"lsq_filter_SkinNoir" = "Noir";
+"lsq_filter_SkinRuddy" = "แดงก่ำ";
+"lsq_filter_SkinPowder" = "สีชมพู";
+"lsq_filter_SkinSugar" = "น้ำตาล";
+
+// Magic
+"lsq_filter_MagicRed" = "สีแดง";
+"lsq_filter_MagicYellow" = "สีเหลือง";
+"lsq_filter_MagicBlue" = "สีน้ำเงิน";
+"lsq_filter_MagicGreen" = "สีเขียว";
+"lsq_filter_MagicPurple" = "สีม่วง";
+
+// Filters Definition
+"lsq_filter_SkinWhitening" = "ฟอกขาว";
+"lsq_filter_SkinTwiceMixed" = "สองส่วนผสม";
+"lsq_filter_SkinTwiceMixedSigma" = "สองส่วนผสม";
+"lsq_filter_SkinWhiteMixed" = "ขาวผสม";
+"lsq_filter_SkinRGBSpace" = "พื้นที่ RGB";
+"lsq_filter_SkinColorMixed" = "สีผสม";
+"lsq_filter_BokehBlur" = "เบลอ";
+"lsq_filter_SenseOfAutumn" = "ฤดูใบไม้ร่วง";
+"lsq_filter_Coloration" = "การย้อมสี";
+"lsq_filter_Fluorescent" = "เรือง";
+"lsq_filter_Freshmorning" = "ตอนเช้า";
+"lsq_filter_Holidaysunshine" = "วันหยุด";
+"lsq_filter_Purplemoon" = "สีม่วง";
+"lsq_filter_Summersunshine" = "ฤดูร้อน";
+"lsq_filter_Wintersunshine" = "ฤดูหนาว";
+"lsq_filter_Summer" = "ฤดูร้อน";
+"lsq_filter_Winter" = "ฤดูหนาว";
+
+// Filters Definition skin
+"lsq_filter_set_skinMultiple" = "ผิวหนังหลาย";
+
+"lsq_filter_set_smoothing" = "การปรับให้เรียบ";
+"lsq_filter_set_whitening" = "ไวท์เทนนิ่ง";
+"lsq_filter_set_skinColor" = "ผิว";
+"lsq_filter_set_retouch" = "ตกแต่ง";
+"lsq_filter_set_chinSize" = "ขนาดคาง";
+"lsq_filter_set_eyeSize" = "ขนาดตา";
+
+"lsq_filter_set_blurSize" = "เบลอขนาด";
+"lsq_filter_set_blurWeight" = "เบลอขนาด";
+"lsq_filter_set_skinColorThreshold" = "สีผิว";
+"lsq_filter_set_skinColorThresholdQuadraticMixture" = "สารผสมสีผิว";
+"lsq_filter_set_distanceNormalizationFactor" = "ขอบ";
+"lsq_filter_set_blurSigma" = "เบลอ ซิก";
+"lsq_filter_set_mixied" = "ผสม";
+"lsq_filter_set_texture" = "เนื้อผ้า";
+"lsq_filter_set_saturation" = "ความอิ่มตัว";
+"lsq_filter_set_contrast" = "ความแตกต่าง";
+"lsq_filter_set_sharpness" = "ความคม";
+"lsq_filter_set_highlights" = "ไฮไลท์";
+"lsq_filter_set_shadows" = "เงา";
+"lsq_filter_set_temperature" = "โทน";
+"lsq_filter_set_autumnColorThreshold" = "ฤดูใบไม้ร่วง";
+"lsq_filter_set_hue" = "สี";
+"lsq_filter_set_hueSpace" = "เว้ช่องว่าง";
+"lsq_filter_set_brightness" = "ความสว่าง";
+"lsq_filter_set_exposure" = "การเปิดรับ";
+"lsq_filter_set_vignette" = "บทความสั้น";
+"lsq_filter_set_aperture" = "รู";
+"lsq_filter_set_holy_light" = "แสงศักดิ์สิทธิ์";
+"lsq_filter_set_adjustment" = "ปรับ";
+"lsq_filter_set_selective" = "เลือก";
+"lsq_filter_set_linear" = "เชิงเส้น";
+"lsq_filter_set_rotate" = "หมุน";
+"lsq_filter_set_radial" = "เป็นแฉก";
+
+"lsq_filter_set_edgeStrength" = "ความแข็งแรง";
+"lsq_filter_set_thresholdLevel" = "ที่ตั้ง";
+"lsq_filter_set_speed" = "ความเร็ว";
+"lsq_filter_set_showType" = "ชนิด";
+
+// text Definition option
+"lsq_filter_set_text_addText" = "เพิ่ม";
+"lsq_filter_set_text_color" = "สี";
+"lsq_filter_set_text_style" = "สไตล์";
+
+// Filters Definition Bokeh
+"lsq_filter_set_radius" = "รัศมี";
+"lsq_filter_set_centerX" = "ศูนย์ X";
+"lsq_filter_set_centerY" = "ศูนย์ Y";
+"lsq_filter_set_excessive" = "ขอบ";
+"lsq_filter_set_maskAlpha" = "หน้ากาก";
+"lsq_filter_set_degree" = "ระดับ";
+
+// Brush Definition
+"lsq_brush_Eraser" = "ยางลบ";
+"lsq_brush_Mosaic" = "โมเสก";
+"lsq_brush_OilPaint" = "สีน้ำมัน";
+"lsq_brush_Gouache" = "Gouache";
+"lsq_brush_WaterColor" = "สีน้ำ";
+"lsq_brush_ColorLead" = "ปากกาสี";
+"lsq_brush_MapleLeaf" = "ใบไม้";
+
+// Brush Size definition
+"lsq_brush_size_small" = "เล็ก";
+"lsq_brush_size_medium" = "กลาง";
+"lsq_brush_size_large" = "ใหญ่";
+"lsq_brush_size_label" = "ขนาด:%@";
+
+// network
+"lsq_network_request_error" = "ข้อผิดพลาดในคำขอเครือข่าย";
+"lsq_network_request_return_error" = "ข้อผิดพลาดในการตอบกลับของเซิร์ฟเวอร์";
+"lsq_network_connection_without" = "ไม่มีเครือข่าย";
+"lsq_network_connection_interruption" = "การเชื่อมต่อถูกขัดจังหวะโปรดตรวจสอบการตั้งค่าของคุณ";
+"lsq_network_connection_failed" = "ไม่สามารถเชื่อมต่อกับเครือข่าย";
+"lsq_network_connection_timeout" = "การหมดเวลาของคำขอเครือข่าย";
+"lsq_network_paser_data_failed" = "ไม่สามารถประมวลผลข้อมูล";
+
+// camera
+"lsq_camera_Grid_on" = "กริดบน";
+"lsq_camera_Grid_off" = "ปิดกริด";
+"lsq_camera_ratio_9_16" = "9:16";
+"lsq_camera_ratio_3_4" = " 3:4";
+"lsq_camera_ratio_2_3" = " 2:3";
+"lsq_camera_ratio_1_1" = " 1:1";
+"lsq_camera_ratio_3_2" = " 3:2";
+"lsq_camera_ratio_4_3" = " 4:3";
+"lsq_camera_ratio_16_9" = "16:9";
+"lsq_camera_ratio_origin" = "เต็ม";
+"lsq_camera_flash_mode_on" = "เปิดแฟลช";
+"lsq_camera_flash_mode_off" = "ปิดแฟลช";
+"lsq_camera_flash_mode_auto" = "แฟลชอัตโนมัติ";
