@@ -20,7 +20,7 @@
 "lsq_refresh_list_view_state_visible" = "ดึงเพื่อรีเฟรช";
 "lsq_refresh_list_view_state_hidden" = "โหลดเสร็จสมบูรณ์";
 "lsq_refresh_list_view_state_triggered" = "รีเฟรชเพื่อรีเฟรช";
-"lsq_refresh_list_view_state_loading" = "loding...";
+"lsq_refresh_list_view_state_loading" = "โหลด...";
 "lsq_refresh_list_view_state_lasttime" = "อัปเดตล่าสุด: ";
 "lsq_refresh_list_view_state_load_more" = "ลอดจ์มากขึ้น...";
 
@@ -164,7 +164,7 @@
 "lsq_sticker_title" = "สติกเกอร์";
 "lsq_sticker_online_title" = "สติ๊กเกอร์ออนไลน์";
 "lsq_sticker_total_format%ld" = "%ld สติกเกอร์";
-"lsq_sticker_empty_title_msg" = "คลิก" "เพื่อดาวน์โหลดสติ๊กเกอร์เพิ่มเติม";
+"lsq_sticker_empty_title_msg" = "คลิก“ ”เพื่อดาวน์โหลดสติ๊กเกอร์เพิ่มเติม";
 "lsq_sticker_empty_title" = "ยังไม่มีสติกเกอร์";
 "lsq_sticker_empty" = "ยังไม่มีสติกเกอร์";
 "lsq_sticker_empty_msg" = "ไปหาร้าน Stickers บ้าง";

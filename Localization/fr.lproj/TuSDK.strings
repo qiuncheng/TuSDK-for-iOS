@@ -22,7 +22,7 @@
 "lsq_refresh_list_view_state_triggered" = "Relâcher pour rafraîchir";
 "lsq_refresh_list_view_state_loading" = "Loger...";
 "lsq_refresh_list_view_state_lasttime" = "Dernière mise à jour: ";
-"lsq_refresh_list_view_state_load_more" = "Loding plus...";
+"lsq_refresh_list_view_state_load_more" = "Loading plus...";
 
 // Date
 "lsq_date_seconds_ago" = "il y a quelques instants";

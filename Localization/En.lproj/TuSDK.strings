@@ -20,9 +20,9 @@
 "lsq_refresh_list_view_state_visible" = "Pull to refresh";
 "lsq_refresh_list_view_state_hidden" = "Load complete";
 "lsq_refresh_list_view_state_triggered" = "Release to refresh";
-"lsq_refresh_list_view_state_loading" = "Loding...";
+"lsq_refresh_list_view_state_loading" = "Loading...";
 "lsq_refresh_list_view_state_lasttime" = "Last updated: ";
-"lsq_refresh_list_view_state_load_more" = "Loding more...";
+"lsq_refresh_list_view_state_load_more" = "Loading more...";
 
 // Date
 "lsq_date_seconds_ago" = "seconds ago";
