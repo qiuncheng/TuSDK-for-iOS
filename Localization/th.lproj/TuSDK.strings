@@ -190,7 +190,7 @@
 
 // FilterGroup
 "lsq_filter_group_Leica" = "Leica";
-"lsq_filter_group_Lomo" = "LOMO";
+"lsq_filter_group_Lomo" = "โลโม่";
 "lsq_filter_group_Food" = "อาหาร";
 "lsq_filter_group_Enhance" = "เสริม";
 "lsq_filter_group_Glare" = "ไฟ";
@@ -239,9 +239,9 @@
 "lsq_filter_remove_title" = "ลบตัวกรอง";
 "lsq_filter_remove_msg%@" = "คุณแน่ใจหรือไม่ว่าต้องการนำตัวกรองออก %@?";
 "lsq_filter_Normal" = "ปกติ";
-"lsq_filter_Lomo" = "LOMO";
-"lsq_filter_Noir" = "Noir";
-"lsq_filter_Abao" = "Abao";
+"lsq_filter_Lomo" = "โลโม่";
+"lsq_filter_Noir" = "นัวร์";
+"lsq_filter_Abao" = "เบ้า";
 "lsq_filter_Instant" = "ด่วน";
 "lsq_filter_Nostalgic" = "เกี่ยวกับความคิดถึง";
 "lsq_filter_Newborn" = "ทารกแรกเกิด";
@@ -283,7 +283,7 @@
 "lsq_filter_SkinNature" = "ธรรมชาติ";
 "lsq_filter_SkinPink" = "สีชมพู";
 "lsq_filter_SkinJelly" = "วุ้น";
-"lsq_filter_SkinNoir" = "Noir";
+"lsq_filter_SkinNoir" = "นัวร์";
 "lsq_filter_SkinRuddy" = "แดงก่ำ";
 "lsq_filter_SkinPowder" = "สีชมพู";
 "lsq_filter_SkinSugar" = "น้ำตาล";
@@ -374,7 +374,7 @@
 "lsq_brush_Eraser" = "ยางลบ";
 "lsq_brush_Mosaic" = "โมเสก";
 "lsq_brush_OilPaint" = "สีน้ำมัน";
-"lsq_brush_Gouache" = "Gouache";
+"lsq_brush_Gouache" = "มีโอกาส";
 "lsq_brush_WaterColor" = "สีน้ำ";
 "lsq_brush_ColorLead" = "ปากกาสี";
 "lsq_brush_MapleLeaf" = "ใบไม้";

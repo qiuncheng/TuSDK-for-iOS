@@ -6,7 +6,7 @@
  Copyright (c) 2015 tusdk.com. All rights reserved.
  */
 
-"lsq_reset" = "Réinitialiser";
+"lsq_reset" = "Reset";
 "lsq_cancel" = "Annuler";
 "lsq_selected" = "Choisi";
 "lsq_complete" = "Terminé";
@@ -128,15 +128,15 @@
 "lsq_edit_smudge_eraser" = "La gomme";
 
 "lsq_edit_text_input_tip" = "Cliquez pour éditer";
-"lsq_edit_text_color_text" = "couleur du texte";
-"lsq_edit_text_color_backgroud" = "Couleur de fond";
-"lsq_edit_text_color_stroke" = "couleur de trait";
-"lsq_edit_text_style_leftToRight" = "De gauche à droite";
-"lsq_edit_text_style_rightToLeft" = "De droite à gauche";
-"lsq_edit_text_style_underline" = "Souligner";
-"lsq_edit_text_style_alignmentLeft" = "AlignementLeft";
-"lsq_edit_text_style_alignmentRight" = "AlignementDroit";
-"lsq_edit_text_style_alignmentCenter" = "Centre d'alignement";
+"lsq_edit_text_color_text" = "Texte";
+"lsq_edit_text_color_backgroud" = "Contexte";
+"lsq_edit_text_color_stroke" = "de trait";
+"lsq_edit_text_style_leftToRight" = "LeftToRight";
+"lsq_edit_text_style_rightToLeft" = "RightToLeft";
+"lsq_edit_text_style_underline" = "Underline";
+"lsq_edit_text_style_alignmentLeft" = "AlignmentLeft";
+"lsq_edit_text_style_alignmentRight" = "AlignmentRight";
+"lsq_edit_text_style_alignmentCenter" = "AlignmentCenter";
 
 "lsq_edit_fragment_turn_left" = "Tournez à gauche";
 "lsq_edit_fragment_turn_right" = "Tournez à droite";
@@ -191,43 +191,43 @@
 // FilterGroup
 "lsq_filter_group_Leica" = "Leica";
 "lsq_filter_group_Lomo" = "LOMO";
-"lsq_filter_group_Food" = "Aliments";
-"lsq_filter_group_Enhance" = "Améliorer";
-"lsq_filter_group_Glare" = "Lumières";
-"lsq_filter_group_Magic" = "la magie";
-"lsq_filter_group_GailyColoured" = "Brillamment";
-"lsq_filter_group_Oldtimes" = "Vieux temps";
-"lsq_filter_group_Lip001" = "Lèvre";
+"lsq_filter_group_Food" = "Food";
+"lsq_filter_group_Enhance" = "Enhance";
+"lsq_filter_group_Glare" = "Lights";
+"lsq_filter_group_Magic" = "Magic";
+"lsq_filter_group_GailyColoured" = "Brightly";
+"lsq_filter_group_Oldtimes" = "Oldtimes";
+"lsq_filter_group_Lip001" = "Lip";
 "lsq_filter_group_Mottle" = "Mottle";
-"lsq_filter_group_LipGloss" = "Lèvres";
+"lsq_filter_group_LipGloss" = "Lips";
 
 
-"lsq_filter_group_Beauty" = "Beauté naturelle";
-"lsq_filter_group_MeituBeauty" = "Beauté douce";
-"lsq_filter_group_EdgeEffects" = "Thermodynamique";
-"lsq_filter_group_EdgeEffects001" = "Effets de bord";
+"lsq_filter_group_Beauty" = "Natural";
+"lsq_filter_group_MeituBeauty" = "Soft";
+"lsq_filter_group_EdgeEffects" = "Thermodynamic";
+"lsq_filter_group_EdgeEffects001" = "EdgeEffects";
 
-"lsq_filter_Multicolor" = "Multicolore";
-"lsq_filter_Azure" = "Azur";
-"lsq_filter_Infrared" = "Infrarouge";
+"lsq_filter_Multicolor" = "Multicolor";
+"lsq_filter_Azure" = "Azure";
+"lsq_filter_Infrared" = "Infrared";
 "lsq_filter_Fluorescence" = "Fluorescence";
-"lsq_filter_Starshine" = "Étoile briller";
+"lsq_filter_Starshine" = "Starshine";
 
-"lsq_filter_Flame" = "Flamme";
+"lsq_filter_Flame" = "Flame";
 "lsq_filter_Polychrome" = "Polychrome";
 "lsq_filter_Angulation" = "Angulation";
 "lsq_filter_Hallucination" = "Hallucination";
-"lsq_filter_Nighttime" = "La nuit";
-"lsq_filter_Splendid" = "Splendide";
+"lsq_filter_Nighttime" = "Nighttime";
+"lsq_filter_Splendid" = "Splendid";
 
-"lsq_filter_Nature" = "La nature";
-"lsq_filter_Blusher" = "Fard à joues";
-"lsq_filter_Jelly" = "Gelée";
-"lsq_filter_Jam" = "Confiture";
-"lsq_filter_Ruddy" = "Rouge";
-"lsq_filter_Sugar" = "Sucre";
-"lsq_filter_Powder" = "Poudre";
-"lsq_filter_Whitening" = "Blanchiment";
+"lsq_filter_Nature" = "Nature";
+"lsq_filter_Blusher" = "Blusher";
+"lsq_filter_Jelly" = "Jelly";
+"lsq_filter_Jam" = "Jam";
+"lsq_filter_Ruddy" = "Ruddy";
+"lsq_filter_Sugar" = "Sugar";
+"lsq_filter_Powder" = "Powder";
+"lsq_filter_Whitening" = "Whitening";
 
 // Filters
 "lsq_filter_Sweet002" = "Doux";
@@ -326,7 +326,7 @@
 
 "lsq_filter_set_blurSize" = "Taille de flou";
 "lsq_filter_set_blurWeight" = "Poids flou";
-"lsq_filter_set_skinColorThreshold" = "Couleur de peau";
+"lsq_filter_set_skinColorThreshold" = "De peau";
 "lsq_filter_set_skinColorThresholdQuadraticMixture" = "Mélange de couleur de peau";
 "lsq_filter_set_distanceNormalizationFactor" = "Bord";
 "lsq_filter_set_blurSigma" = "Flou Sigma";
@@ -373,10 +373,10 @@
 // Brush Definition
 "lsq_brush_Eraser" = "La gomme";
 "lsq_brush_Mosaic" = "Mosaïque";
-"lsq_brush_OilPaint" = "Peinture à l'huile";
+"lsq_brush_OilPaint" = "Pétrole";
 "lsq_brush_Gouache" = "Gouache";
-"lsq_brush_WaterColor" = "Couleur de l'eau";
-"lsq_brush_ColorLead" = "Stylo couleur";
+"lsq_brush_WaterColor" = "De l'eau";
+"lsq_brush_ColorLead" = "Stylo";
 "lsq_brush_MapleLeaf" = "Feuille";
 
 // Brush Size definition

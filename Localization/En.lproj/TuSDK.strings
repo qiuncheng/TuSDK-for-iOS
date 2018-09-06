@@ -128,9 +128,9 @@
 "lsq_edit_smudge_eraser" = "Eraser";
 
 "lsq_edit_text_input_tip" = "Click to edit";
-"lsq_edit_text_color_text" = "text color";
-"lsq_edit_text_color_backgroud" = "backgroud color";
-"lsq_edit_text_color_stroke" = "stroke color";
+"lsq_edit_text_color_text" = "Text";
+"lsq_edit_text_color_backgroud" = "Backgroud";
+"lsq_edit_text_color_stroke" = "Stroke";
 "lsq_edit_text_style_leftToRight" = "LeftToRight";
 "lsq_edit_text_style_rightToLeft" = "RightToLeft";
 "lsq_edit_text_style_underline" = "Underline";
@@ -202,8 +202,8 @@
 "lsq_filter_group_LipGloss" = "Lips";
 
 
-"lsq_filter_group_Beauty" = "NaturalBeauty";
-"lsq_filter_group_MeituBeauty" = "SoftBeauty";
+"lsq_filter_group_Beauty" = "Natural";
+"lsq_filter_group_MeituBeauty" = "Soft";
 "lsq_filter_group_EdgeEffects" = "Thermodynamic";
 "lsq_filter_group_EdgeEffects001" = "EdgeEffects";
 
