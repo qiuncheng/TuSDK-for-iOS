@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                = 'TuSDK'
-  s.version             = '2.9.1.3'
+  s.version             = '3.0.0'
   s.summary             = 'TuSDK for iOS'
   s.homepage            = 'https://tutucloud.com/'
   s.license             = { :type => 'Commercial', :text => '© 2014–2018 TUTUCLOUD Technology Co., Ltd.' }
@@ -9,9 +9,6 @@ Pod::Spec.new do |s|
   s.source              = { :git => 'https://github.com/TuSDK/TuSDK-for-iOS.git', :tag => "#{s.version}" }
   s.requires_arc        = true
 
-  s.subspec 'GPUImage' do |g|
-    g.dependency            'GPUImage', '~> 0.1.7'
-  end
 
   s.subspec 'Core' do |c|
     c.vendored_frameworks = 'TuSDK.framework'
