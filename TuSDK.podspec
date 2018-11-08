@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                = 'TuSDK'
-  s.version             = '3.0.0.1'
+  s.version             = '3.0.1.1'
   s.summary             = 'TuSDK for iOS'
   s.homepage            = 'https://tutucloud.com/'
   s.license             = { :type => 'Commercial', :text => '© 2014–2018 TUTUCLOUD Technology Co., Ltd.' }
