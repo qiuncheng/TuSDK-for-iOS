@@ -206,8 +206,16 @@
 "lsq_filter_group_MeituBeauty" = "ความงามอ่อน";
 "lsq_filter_group_EdgeEffects" = "อุณหพลศาสตร์";
 "lsq_filter_group_EdgeEffects001" = "เอฟเฟ็กต์ขอบ";
+"lsq_filter_group_Cartoon_image" = "การ์ตูน";
 
+
+"lsq_filter_JPComics_Image" = "JPComics";
+"lsq_filter_Monochrome_Image" = "ขาวดำ";
+"lsq_filter_Ink_Image" = "หมึก";
+"lsq_filter_USComics_Image" = "USComics";
+"lsq_filter_Lightcolor_Image" = "สีอ่อน";
 "lsq_filter_Multicolor" = "มัลติคัลเลอร์";
+"lsq_filter_CHComics_Image" = "CHComics";
 "lsq_filter_Azure" = "สีฟ้า";
 "lsq_filter_Infrared" = "อินฟราเรด";
 "lsq_filter_Fluorescence" = "แสงวาว";
